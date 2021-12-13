@@ -7,7 +7,7 @@ const style = {
   border: "2px solid black",
   fontSize: "30px",
   cursor: "pointer",
-  // outline: "none",
+  outline: "none",
 };
 
 export default function Square(props) {
