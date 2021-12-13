@@ -14,8 +14,7 @@ import Square from "./Square";
 // function calculatet winner
 
 const style = {
-  boxsizing: "content-box",
-  border: "3px solid black",
+  border: "4px solid black",
   borderRadius: "10px",
   width: "250px",
   height: "250px",
